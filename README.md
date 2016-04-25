@@ -1,4 +1,4 @@
-# simpleChat
+# Simple Chat in Ionic And Firebase.
 1:Live Application. url::
 <br/>
 http://dailytask.github.io/simpleChat/www/#/chat
